@@ -4,6 +4,7 @@
 
 This repository contains a modular and reusable **Design System** built with **React**, **TypeScript**, and **TailwindCSS**, aimed at providing a consistent set of UI components, design tokens, and reusable components for modern web applications.
 
+---
 
 ## 📁 Folder Structure
 
@@ -17,6 +18,8 @@ components/ Avatar/ # Avatar component
 ├── Theme/ # Contains design tokens (colors, typography, spacing) 
 ├── Modal.tsx # Modal component └── Tooltip.tsx # Tooltip component
 Each folder contains individual components, styles, and documentation for use.
+
+---
 
 ## 🛠 Tech Stack
 
@@ -40,6 +43,14 @@ The Design System includes the following features:
 - **Storybook Integration:** All components are fully documented and displayed in Storybook.
 - **TypeScript**: Type safety for all components and utilities.
 - **TailwindCSS**: Custom styling using the utility-first CSS framework.
+
+---
+
+## 🔗 Live Storybook
+
+Explore the live component library on Chromatic:
+
+👉 [https://www.chromatic.com/library?appId=6804924c36f8ed0c41021f43](https://www.chromatic.com/library?appId=6804924c36f8ed0c41021f43)
 
 ---
 
