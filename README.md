@@ -16,7 +16,8 @@ components/ Avatar/ # Avatar component
 ├── Input/ # Input field component 
 ├── Tabs/ # Tabs component 
 ├── Theme/ # Contains design tokens (colors, typography, spacing) 
-├── Modal.tsx # Modal component └── Tooltip.tsx # Tooltip component
+├── Modal.tsx # Modal component 
+└── Tooltip.tsx # Tooltip component
 Each folder contains individual components, styles, and documentation for use.
 
 ---
@@ -51,6 +52,16 @@ The Design System includes the following features:
 Explore the live component library on Chromatic:
 
 👉 [https://www.chromatic.com/library?appId=6804924c36f8ed0c41021f43](https://www.chromatic.com/library?appId=6804924c36f8ed0c41021f43)
+
+---
+
+## 🖼️ Component Screenshots
+
+Below are screenshots of a few components rendered in Storybook:
+
+![Capture](./src/screenshots/Capture.PNG)
+![Capture1](./src/screenshots/Capture1.PNG)
+![Capture2](./src/screenshots/Capture2.PNG)
 
 ---
 
